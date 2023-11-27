@@ -4,17 +4,17 @@ You can use the website to generate badges: https://shields.io/
 -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<a href="https://t.me/Damantha_Jasinghe"><img src="https://avatars.githubusercontent.com/u/152199716?v=4" width="150px" height="150px" /></a> |
+<a href="https://github.com/ACH-Gemunu"><img src="https://avatars.githubusercontent.com/u/152199716?v=4" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Dᴀᴍᴀɴᴛʜᴀ Jᴀsɪɴɢʜᴇ ֍🇱🇰](https://t.me/damantha_jasinghe)**                                                                                |
-| <a href="https://t.me/Damantha_Jasinghe"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/DamanthaJasinghe"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="32px" height="32px"></a>                                                                                                                                                                <a href="https://www.youtube.com/channel/UCzl8fagoLiV7zBDXQxKYAxA"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="32px" height="32px"></a>              <a href="https://twitter.com/DamanthaJ"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" width="32px" height="32px">                                 
+|       **[ACH](https://github.com/ACH-Gemunu)**                                                                                |
+| <a href="#"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px"></a> <a href="#"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="32px" height="32px"></a>                                                                                                                                                                <a href="#"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="32px" height="32px"></a>              <a href="#"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" width="32px" height="32px">                                 
 
--  🚶‍ I live in : Sri Lanka 🇱🇰  <br>
--  🔭 I’m currently working on : [![@SDBots](https://img.shields.io/badge/@SDBots-Inc.-red)](https://github.com/SDbots)  <br>
--  👯 I’m looking to collaborate : [![github](https://img.shields.io/badge/On-Github-black)](https://github.com/Damantha126)  <br>
+-  🚶‍ We live in : Sri Lanka 🇱🇰  <br>
+-  🔭 I’m currently working on : [![@ACH](https://img.shields.io/badge/@ACH-Gemunu.-red)](https://github.com/ACH-Gemunu)  <br>
+-  👯 I’m looking to collaborate : [![github](https://img.shields.io/badge/On-Github-black)](https://github.com/ACH-Gemunu)  <br>
 -  🤔 I’m looking for help : For  Me  <br>
--  💬 Ask me about : [![WebSite](https://img.shields.io/badge/Go%20to-https://damanthaja.sdbots.tech-brightgreen)](https://damanthaja.sdbots.tech) <br>
--  📫 How to reach me : [![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)](https://t.me/DamanthaJasinghe)
+-  💬 Ask me about : [![WebSite](https://img.shields.io/badge/Go%20to-ACH-brightgreen)](#) <br>
+-  📫 How to reach me : [![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)](https://github.com/ACH-Gemunu)
 
 
 ## My Github Status📊
@@ -24,29 +24,15 @@ You can use the website to generate badges: https://shields.io/
 
 
 
- <p align="center"><a href="https://github.com/Damantha126">
-    <img align="center" alt="Damantha Jasinghe's github stats" src="https://github-readme-stats.vercel.app/api?username=Damantha126&show_icons=true&theme=midnight-purple" />
-  </a></p>
-
-<br>
-<br>
-
+ <p align="center"><a href="https://github.com/ACH-Gemunu>
 <!--- ![Profile views](https://gpvc.arturio.dev/Damantha126)
-- [![GitHub followers](https://img.shields.io/github/followers/Damantha126.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Damantha126?tab=followers)
+- [![GitHub followers](https://img.shields.io/github/followers/ACH-Gemunu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ACH-Gemunu?tab=followers)
 -->  
 
 <p align="center"><a href="https://github.com/Damantha126"><img src="https://github-profile-trophy.vercel.app/?username=Damantha126&no-bg=true" alt="Damantha126" /></a> </p>
 
 
-# Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=50px height="80px">
 
-<!--<p align="center">
-  <a href="https://github.com/Damantha126">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Damantha126#version3"/>
-  </a>
-</p>-->
-
-[![Damantha Jasinghe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Damantha126&bg_color=252837&color=14ffb9&line=801de2&point=eb670f&area=true&hide_border=true)](https://github.com/Damantha126)
 
 # MY TOOLS AND LANG
 
@@ -69,26 +55,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 # MOST USED LANGUAGES
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Damantha126&theme=midnight-purple&show_icons=true&count_private=true)
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ACH-Gemunu&theme=midnight-purple&show_icons=true&count_private=true)
 
-                                                              
-### Social media
-                                                              
-<a href="https://t.me/Damantha_Jasinghe" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/DamanthaJasinghe" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/DamanthaJasinghe" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCzl8fagoLiV7zBDXQxKYAxA" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/DamanthaJ" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
-</p>
+                                                                                                                       
 
-<br>                                                              
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Damantha126)
-[![Facebook](https://img.shields.io/badge/-facebook-lk?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/DamanthaJasinghe)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/damantha-jasinghe-3b9376212/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/DamanthaJasinghe/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:damanthaja@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:damanthajasinghe@outlook.com)                                                              
-
-#### **Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{Damantha126}/count.svg)
